@@ -1,4 +1,4 @@
-# Özgür Yazılım Kampı: Linux Sistem Yönetimi 1 (1. Gün Notları ve Özgür Yazılım Felsefesi)
+# Özgür Yazılım Kampı: Linux Sistem Yönetimi 1 (1. Gün Notları ve Özgür Yazılım Felsefesi) 
 
 Bu yazı, Özgür Yazılım Kampı'nda aldığım Linux Sistem Yönetimi 1 dersinin ilk gününde tuttuğum notların derlenmiş hâlidir. Notlarda yer alan tüm komutların listesi dosyanın en sonunda sıralanmıştır, eğer sadece komutları incelemek isterseniz doğrudan en sona atlayabilirsiniz.
 
