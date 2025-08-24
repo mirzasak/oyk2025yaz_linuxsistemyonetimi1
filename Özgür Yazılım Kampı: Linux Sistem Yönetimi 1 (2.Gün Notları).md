@@ -1,4 +1,4 @@
-# Özgür Yazılım Kampı: GNU/Linux Sistem Yönetimi 1 (2. Gün Notları)
+# Özgür Yazılım Kampı: GNU/Linux Sistem Yönetimi 1 (2. Gün Notları) 
 
 Bu yazı, Özgür Yazılım Kampı'nda aldığım Linux Sistem Yönetimi 1 dersinin ikinci gününde tuttuğum notların derlenmiş hâlidir. Notlarda yer alan tüm komutların listesi dosyanın en sonunda sıralanmıştır, eğer sadece komutları incelemek isterseniz doğrudan en sona atlayabilirsiniz.
 
