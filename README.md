@@ -54,12 +54,6 @@ Bu notlarda bir hata görürseniz veya ekleme önerileriniz varsa:
 - 🔧 **Pull Request** gönderebilirsiniz
 - 📧 Benimle doğrudan iletişime geçebilirsiniz
 
-## 🙏 Teşekkürler
-
-- **Özgür Yazılım Kampı** organizatörlerine
-- **GNU/Linux Sistem Yöneticiliği 1** dersi eğitmeni **Doruk Fişek**'e
-- Bilgiyi özgürce paylaşan tüm özgür yazılım topluluğuna
-
 ---
 
 > *"Bilgi paylaşıldıkça çoğalır, saklandıkça azalır."* - Özgür Yazılım Felsefesi
