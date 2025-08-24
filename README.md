@@ -17,7 +17,7 @@ Bu notları paylaşmamın temel motivasyonları:
 | Gün | Tarih | Konu | Durum |
 |-----|-------|------|-------|
 | 1. Gün | 23.08.2025 | Özgür Yazılım Felsefesi & Temel Linux Komutları | ✅ Yayınlandı |
-| 2. Gün | - | - | ⏳ Yakında |
+| 2. Gün | 24.08.2025 | Linux Dosya Sistemi, I/O Yönlendirmesi ve Temel Sistem Yönetimi | ✅ Yayınlandı  |
 | 3. Gün | - | - | ⏳ Yakında |
 | 4. Gün | - | - | ⏳ Yakında |
 | 5. Gün | - | - | ⏳ Yakında |
@@ -43,8 +43,9 @@ Her ders notu şu bölümleri içerir:
 ## 🔗 Dosyalar
 
 - [📂 Gün 1: Özgür Yazılım Felsefesi ve Temel Komutlar](./Özgür%20Yazılım%20Kampı:%20Linux%20Sistem%20Yönetimi%201%20(1.%20Gün%20Notları%20ve%20Özgür%20Yazılım%20Felsefesi).md)
-- 📂 Gün 2: Yakında...
+- [📂 Gün 2: Linux Dosya Sistemi, I/O Yönlendirmesi ve Temel Sistem Yönetimi](./Özgür%20Yazılım%20Kampı:%20Linux%20Sistem%20Yönetimi%201%20(2.Gün%20Notları).md)
 - 📂 Gün 3: Yakında...
+- 📂 Gün 4: Yakında...
 - *(Diğer günler ders ilerledikçe eklenecek)*
 
 ## 🤝 Katkıda Bulunma
@@ -53,6 +54,12 @@ Bu notlarda bir hata görürseniz veya ekleme önerileriniz varsa:
 - 🐛 **Issue** açabilirsiniz
 - 🔧 **Pull Request** gönderebilirsiniz
 - 📧 Benimle doğrudan iletişime geçebilirsiniz
+
+## 🙏 Teşekkürler
+
+- **Özgür Yazılım Kampı** organizatörlerine
+- **GNU/Linux Sistem Yöneticiliği 1** dersi eğitmenlerine
+- Bilgiyi özgürce paylaşan tüm özgür yazılım topluluğuna
 
 ---
 
