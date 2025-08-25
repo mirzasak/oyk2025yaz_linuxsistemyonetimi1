@@ -336,6 +336,9 @@ find /home -size +100M
 
 # Boş dosyaları bul ve sil
 find . -type f -empty -delete
+
+# Dosyanın kaç tane sylmlink'i olduğunu bul
+find . -type l -lname dosya.txt
 ```
 
 ### I/O Yönlendirme Örnekleri
