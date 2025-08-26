@@ -98,8 +98,6 @@ Paket yöneticisi, Linux sistemlerde yazılım kurulum, güncelleme ve kaldırma
 ### 3.4 Paket Deposu (Repository)
 Paket deposu, yazılım paketlerinin merkezi olarak depolandığı ve dağıtıldığı sunuculardır. Paket yöneticileri bu depolardan yazılımları indirir ve kurar.
 
-**Not**: Paket yöneticileri dil, din veya dizin ayrımı yapmaz - evrensel araçlardır.
-
 ## 4. Disk Yönetimi ve Partitioning
 
 ### 4.1 MBR (Master Boot Record) Sınırlamaları
