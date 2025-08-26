@@ -1,6 +1,6 @@
 # Özgür Yazılım Kampı: Linux Sistem Yönetimi 1 (4. Gün Notları - **Linux Dosya Sistemi ve Disk Yönetimi Rehberi**)
 
-Bu yazı, Özgür Yazılım Kampı'nda aldığım Linux Sistem Yönetimi 1 dersinin ilk gününde tuttuğum notların derlenmiş hâlidir. Notlarda yer alan tüm komutların listesi dosyanın en sonunda sıralanmıştır, eğer sadece komutları incelemek isterseniz doğrudan en sona atlayabilirsiniz.
+Bu yazı, Özgür Yazılım Kampı'nda aldığım Linux Sistem Yönetimi 1 dersinin dördüncü gününde tuttuğum notların derlenmiş hâlidir. Notlarda yer alan tüm komutların listesi dosyanın en sonunda sıralanmıştır, eğer sadece komutları incelemek isterseniz doğrudan en sona atlayabilirsiniz.
 
 ## 1. Linux Dosya Sistem Hiyerarşisi (FHS)
 
