@@ -14,17 +14,17 @@ Bu notları paylaşmamın temel motivasyonları:
 
 **Kamp süresi boyunca her sabah saat 10:00'da** bir önceki güne ait ders notları bu repository'ye eklenecektir.
 
-| Gün | Tarih | Konu | Durum |
-|-----|-------|------|-------|
-| 1. Gün | 23.08.2025 | Özgür Yazılım Felsefesi & Temel Linux Komutları | ✅ Yayınlandı |
-| 2. Gün | 24.08.2025 | Linux Dosya Sistemi, I/O Yönlendirmesi ve Temel Sistem Yönetimi | ✅ Yayınlandı  |
-| 3. Gün | - | - | ⏳ Yakında |
-| 4. Gün | - | - | ⏳ Yakında |
-| 5. Gün | - | - | ⏳ Yakında |
-| 6. Gün | - | - | ⏳ Yakında |
-| 7. Gün | - | - | ⏳ Yakında |
-| 8. Gün | - | - | ⏳ Yakında |
-| 9. Gün | - | - | ⏳ Yakında |
+| Gün | Tarih | Durum |
+|-----|-------|-------|
+| 1. Gün | 23.08.2025 | ✅ Yayınlandı |
+| 2. Gün | 24.08.2025 | ✅ Yayınlandı |
+| 3. Gün | 25.08.2025 | ✅ Yayınlandı |
+| 4. Gün | - | ⏳ Yakında |
+| 5. Gün | - | ⏳ Yakında |
+| 6. Gün | - | ⏳ Yakında |
+| 7. Gün | - | ⏳ Yakında |
+| 8. Gün | - | ⏳ Yakında |
+| 9. Gün | - | ⏳ Yakında |
 
 ## 📋 İçerik Yapısı
 
@@ -44,8 +44,10 @@ Her ders notu şu bölümleri içerir:
 
 - [📂 Gün 1: Özgür Yazılım Felsefesi ve Temel Komutlar](./Özgür%20Yazılım%20Kampı:%20Linux%20Sistem%20Yönetimi%201%20(1.%20Gün%20Notları%20ve%20Özgür%20Yazılım%20Felsefesi).md)
 - [📂 Gün 2: Linux Dosya Sistemi, I/O Yönlendirmesi ve Temel Sistem Yönetimi](./Özgür%20Yazılım%20Kampı:%20Linux%20Sistem%20Yönetimi%201%20(2.Gün%20Notları).md)
-- 📂 Gün 3: Yakında...
+- [📂 Gün 3: Disk ve Dosya Sistemi Yönetimi, Mount İşlemleri ve Sistem İzleme](./Özgür%20Yazılım%20Kampı:%20Linux%20Sistem%20Yönetimi%201%20(3.%20Gün%20Notları).md)
 - 📂 Gün 4: Yakında...
+- 📂 Gün 5: Yakında...
+- 📂 Gün 6: Yakında...
 - *(Diğer günler ders ilerledikçe eklenecek)*
 
 ## 🤝 Katkıda Bulunma
