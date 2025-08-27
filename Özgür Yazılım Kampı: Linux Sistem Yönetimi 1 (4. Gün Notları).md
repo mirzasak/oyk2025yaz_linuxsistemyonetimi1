@@ -17,8 +17,7 @@ Linux sistemlerde "**Her şey bir dosyadır**" felsefesi geçerlidir. FHS (Files
 - Genellikle ayrı bir partition olarak yapılandırılır
 - **Neden ayrı partition?**: 
   - Sistem kurtarma durumlarında erişilebilirlik
-  - Boot loader'ın disk sınırlamaları (eski sistemlerde ilk 1024 silindir sınırı)
-  - Root partition'ı şifrelendiğinde boot dosyalarına erişim
+  - Boot loader'ın disk sınırlamaları (eski sistemlerde ilk 1024 bit sınırı)
 
 #### `/tmp` - Geçici Dosyalar
 - Geçici dosyaların depolandığı dizin
