@@ -583,7 +583,9 @@ Sorry, user odev is not allowed to execute '/usr/bin/touch test /tmp' as root on
 ### 16.4. Özet
 - Kullanıcı `odev` sadece `sudo ls -1 /tmp` komutunu çalıştırabilir.  
 - Başka hiçbir `sudo` komutu çalıştıramaz.  
-- Böylece en az yetki prensibi uygulanmış olur.  
+- Böylece en az yetki prensibi uygulanmış olur.
+
+---
 
 ## 17. Komut Referansları
 
