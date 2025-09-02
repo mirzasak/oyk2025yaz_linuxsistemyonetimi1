@@ -12,8 +12,6 @@ Bu notları paylaşmamın temel motivasyonları:
 
 ## 📅 Güncelleme Programı
 
-**Kamp süresi boyunca her sabah saat 10:00'da** bir önceki güne ait ders notları bu repository'ye eklenecektir.
-
 | Gün | Tarih | Durum |
 |-----|-------|-------|
 | 1. Gün | 23.08.2025 | ✅ Yayınlandı |
@@ -22,9 +20,9 @@ Bu notları paylaşmamın temel motivasyonları:
 | 4. Gün | 26.08.2025 | ✅ Yayınlandı |
 | 5. Gün | 27.08.2025 | ✅ Yayınlandı |
 | 6. Gün | 28.08.2025 | ✅ Yayınlandı |
-| 7. Gün | - | ⏳ Yakında |
-| 8. Gün | - | ⏳ Yakında |
-| 9. Gün | - | ⏳ Yakında |
+| 7. Gün | 29.08.2025 | ✅ Yayınlandı |
+| 8. Gün | 30.08.2025 | ✅ Yayınlandı |
+| 9. Gün | 31.08.2025 | ✅ Yayınlandı |
 
 ## 📋 İçerik Yapısı
 
@@ -48,9 +46,9 @@ Her ders notu şu bölümleri içerir:
 - [📂 Gün 4: İleri Seviye Sistem Yönetimi ve Ağ Yapılandırması](./Özgür%20Yazılım%20Kampı:%20Linux%20Sistem%20Yönetimi%201%20(4.%20Gün%20Notları).md)
 - [📂 Gün 5: Linux Sistem Yönetimi ve Paket Yöneticileri Rehberi](./Özgür%20Yazılım%20Kampı:%20Linux%20Sistem%20Yönetimi%201%20(5.%20Gün%20Notları).md)
 - [📂 Gün 6: Kullanıcılar, Yetkiler ve Sistem Araçları](./Özgür%20Yazılım%20Kampı:%20Linux%20Sistem%20Yönetimi%201%20(6.%20Gün%20Notları).md)
-- 📂 Gün 7: Yakında...
-- 📂 Gün 8: Yakında...
-- *(Diğer günler ders ilerledikçe eklenecek)*
+- [📂 Gün 7: Süreç Yönetimi ve Temel Network Kavramları](./Özgür%20Yazılım%20Kampı:%20Linux%20Sistem%20Yönetimi%201%20(7.%20Gün%20Notları).md)
+- [📂 Gün 8: Temel Network Kavramları ve Sistem Protokolleri](./Özgür%20Yazılım%20Kampı:%20Linux%20Sistem%20Yönetimi%201%20(8.%20Gün%20Notları).md)
+- [📂 Gün 9: SSH Servisi](./Özgür%20Yazılım%20Kampı:%20Linux%20Sistem%20Yönetimi%201%20(9.%20Gün%20Notları).md)
 
 ## 🤝 Katkıda Bulunma
 
